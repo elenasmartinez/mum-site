@@ -1,13 +1,11 @@
 ---
-title: About Alembic
-feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+title: About mum
+#feature_text: |
+## mum
+# A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "mum_logo.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "mum is a general purpose programming language intended for beginner to intermediate programmers"
 ---
-
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/bsteenbergen/mum" color="#0366d6" %}
 
@@ -22,9 +20,10 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 ## Examples
 
-Here are a few examples of
+Here are a few examples of mum functionalities
 
-|                   |                               |
+#### Functions
+
 | ----------------- | ----------------------------- |
-| Void function     | task sayHi(): mumble("Hi!")   |
+| Void function | task sayHi(): mumble("Hi!") |
 | non-void function | task square(num n) yields n^2 |
