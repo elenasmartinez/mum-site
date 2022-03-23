@@ -3,7 +3,7 @@ title: About Alembic
 feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "mum_logo.png" <width="1300" height="400">
+feature_image: "mum_logo.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
@@ -22,11 +22,19 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 ## Examples
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Here are a few examples of
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+<table>
+ <th>Printing</th>
+  <tr>
+    <td>
+      <pre style="margin-left: 0; width:100%">
+task sayHi():
+  mumble("Hi!")
+    </td>
+    
+  </tr>
+</table>
 
 ## Installation
 
