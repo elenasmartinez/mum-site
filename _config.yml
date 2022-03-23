@@ -119,7 +119,7 @@ navigation_header:
   - title: Home
     url: /
   - title: About Us
-    url: /categories/
+    url: /categories.html/
   - title: Fork mum
     url: https://github.com/bsteenbergen/mum
 
