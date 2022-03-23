@@ -118,8 +118,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
   - title: Home
     url: /
-  - title: About Us
-    url: /categories.html/
+  - title: Elements
+    url: /elements/
+  #- title: Blog
+  #  url: /blog/
+  - title: Categories
+    url: /categories/
   - title: Fork mum
     url: https://github.com/bsteenbergen/mum
 
