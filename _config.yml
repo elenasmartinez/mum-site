@@ -122,10 +122,8 @@ navigation_header:
     url: /elements/
   - title: Blog
     url: /blog/
-  - title: Categories
+  - title: About Us
     url: /categories/
-  - title: Search
-    url: /search/
   - title: Fork mum
     url: https://github.com/bsteenbergen/mum
 
