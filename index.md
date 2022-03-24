@@ -9,7 +9,7 @@ Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are compute
 
 ## Meet Kira
 
-{% include figure.html image= "elena_pic.png" position="left" width="300" height="800" %}
+<img style="float: right;" src="elena_pic.png" position="left" width="300" height="800">
 
 {% include button.html text="Kira's Github" icon="github" link="https://github.com/kirakira0" color="#0366d6" %}
 
