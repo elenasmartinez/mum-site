@@ -17,7 +17,7 @@ Kira Toal is a computer science and applied math double major. She enjoys going 
 
 ## Meet Brittany
 
-<img style="float: right;" src="brittany_pic.png" position="right" width="300" height="850">
+<img style="float: right;" src="brittany_pic.png" position="right" width="300" height="900">
 
 Brittany Steenbergen is currently a junior computer science major and a member of the LMU novice rowing team. In her free time she enjoys painting, hiking, and backpacking.
 
