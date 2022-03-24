@@ -13,13 +13,7 @@
 exclude:
   - README.md
   - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
   - LICENSE
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - alembic-jekyll-theme.gemspec
-  - .jekyll-cache
 
 # 2. Installed Gems
 plugins:
@@ -35,18 +29,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links: # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
 # options: ["SMART", "FOOTNOTES"]
@@ -74,7 +57,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: mum_logo.png
   - scope:
       path: ""
       type: "posts"
@@ -89,12 +72,12 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Mum" # Site name or title, also used in jekyll-seo-tag
+title: "mum" # Site name or title, also used in jekyll-seo-tag
 logo: "mum_logo.png" # Site logo, also used in jekyll-seo-tag
-description: "mum is a general purpose programming language intended for beginner to intermediate programmers" # Site description and default description, also used in jekyll-seo-tag
-url: "https://elenasmartinez.github.io/mum-site/" # Site url, also used in jekyll-seo-tag
+description: "mum is a general purpose programming language intended for beginner to intermediate programmers"
+url: "https://bsteenbergen.github.io/mum/"
 baseurl: ""
-repo: "https://github.com/elenasmartinez/mum-site"
+repo: "https://github.com/bsteenbergen/mum"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -117,33 +100,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
   - title: Home
-    url: /
-  - title: Elements
-    url: /elements/
-  - title: Blog
-    url: /blog/
-  - title: Categories
-    url: /categories/
-  - title: Search
-    url: /search/
+    url: "https://bsteenbergen.github.io/mum/"
+  - title: About us
+    url: "https://elenasmartinez.github.io/mum-site/"
   - title: Fork mum
-    url: https://github.com/bsteenbergen/mum
+    url: "https://bsteenbergen.github.io/mum/"
 
 navigation_footer:
-  - title: Created by David Darnes
-    url: https://darn.es
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+  - title: Created by Kira, Brittany, Elena, Halle
+    url: https://elenasmartinez.github.io/mum-site/
 
 # Load custom fonts from fonts.google.com etc
 #
