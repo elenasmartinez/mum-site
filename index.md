@@ -17,21 +17,24 @@ Kira Toal is a computer science major .....
 
 ## Meet Brittany
 
+<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
+
 Brittany Steenbergen is a computer science major .....
 
-<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 {% include button.html text="Brittany's Github" icon="github" link="https://github.com/bsteenbergen" color="#0366d6" %}
 
 ## Meet Elena
 
-Elena Martinez is a computer science major .....
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
+
+Elena Martinez is a computer science major .....
 
 {% include button.html text="Elena's Github" icon="github" link="https://github.com/elenasmartinez" color="#0366d6" %}
 
 ## Meet Halle
 
-Halle Vogelpohl is a computer science major ....
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
+
+Halle Vogelpohl is a computer science major ....
 
 {% include button.html text="Halle's Github" icon="github" link="https://github.com/hallegv" color="#0366d6" %}
