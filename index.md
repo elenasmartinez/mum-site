@@ -35,6 +35,6 @@ Elena Martinez is a computer science and applied math double major. In her free 
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Brittany Steenbergen is a Junior Computer Science major and a member of the LMU novice rowing team. In her free time she enjoys painting, hiking, and backpacking.
+Halle Vogelpohl is a Senior Computer Science major. In her free time she enjoys dancing, photography, and concocting the perfect mule.
 
 {% include button.html text="Halle's Github" icon="github" link="https://github.com/hallegv" color="#0366d6" %}
