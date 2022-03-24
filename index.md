@@ -17,9 +17,9 @@ Kira Toal is a computer science and applied math double major. She enjoys going 
 
 ## Meet Brittany
 
-<img style="float: right;" src="brittany_pic.png" position="right" width="300" height="800">
+<img style="float: right;" src="brittany_pic.png" position="right" width="300" height="850">
 
-Brittany Steenbergen is a Junior Computer Science major and a member of the LMU novice rowing team. In her free time she enjoys painting, hiking, and backpacking.
+Brittany Steenbergen is currently a junior computer science major and a member of the LMU novice rowing team. In her free time she enjoys painting, hiking, and backpacking.
 
 {% include button.html text="Brittany's Github" icon="github" link="https://github.com/bsteenbergen" color="#0366d6" %}
 
@@ -27,7 +27,7 @@ Brittany Steenbergen is a Junior Computer Science major and a member of the LMU 
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Elena Martinez is a computer science and applied math double major. In her free time she enjoys going running, scrapbooking, and spending time with friends, family, and her dog, Lopey.
+Elena Martinez is currently a senior computer science and applied math double major. In her free time she enjoys going running, scrapbooking, and spending time with friends, family, and her dog, Lopey.
 
 {% include button.html text="Elena's Github" icon="github" link="https://github.com/elenasmartinez" color="#0366d6" %}
 
@@ -35,6 +35,6 @@ Elena Martinez is a computer science and applied math double major. In her free 
 
 <img style="float: right;" src="halle_pic.png" position="right" width="300" height="800">
 
-Halle Vogelpohl is a Senior Computer Science major. In her free time she enjoys dancing, photography, and concocting the perfect mule.
+Halle Vogelpohl is currently a senior computer science major. In her free time she enjoys dancing, photography, and concocting the perfect mule.
 
 {% include button.html text="Halle's Github" icon="github" link="https://github.com/hallegv" color="#0366d6" %}
