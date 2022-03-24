@@ -9,7 +9,7 @@ Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are compute
 
 ## Meet Kira
 
-<img style="float: left;" src="elena_pic.png" position="left" width="300" height="800">
+<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
 Kira Toal is a computer science and applied math double major. She enjoys going running, scrapbooking, and spending time with friends and family. She hopes that the public finds mum easy to use.
 
@@ -17,7 +17,7 @@ Kira Toal is a computer science and applied math double major. She enjoys going 
 
 ## Meet Brittany
 
-<img style="float: left;" src="elena_pic.png" position="left" width="300" height="800">
+<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
 Brittany Steenbergen is a Junior Computer Science major and a member of the LMU novice rowing team. In her free time she enjoys painting, hiking, and backpacking.
 
@@ -25,7 +25,7 @@ Brittany Steenbergen is a Junior Computer Science major and a member of the LMU 
 
 ## Meet Elena
 
-<img style="float: left;" src="elena_pic.png" position="left" width="300" height="800">
+<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
 Elena Martinez is a computer science and applied math double major. In her free time she enjoys going running, scrapbooking, and spending time with friends and family.
 
@@ -33,7 +33,7 @@ Elena Martinez is a computer science and applied math double major. In her free 
 
 ## Meet Halle
 
-<img style="float: left;" src="elena_pic.png" position="left" width="300" height="800">
+<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
 Brittany Steenbergen is a Junior Computer Science major and a member of the LMU novice rowing team. In her free time she enjoys painting, hiking, and backpacking.
 
