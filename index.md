@@ -27,7 +27,7 @@ Brittany Steenbergen is a computer science major .....
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Elena Martinez is a computer science and applied mathematics double major. In her free time she enjoys going running, scrapbooking, and spending time with friends and family.
+Elena Martinez is a computer science and applied mathematics double major. In her free time she enjoys going running, scrapbooking, and spending time with friends and family. She hopes that the public finds mum easy to use.
 
 {% include button.html text="Elena's Github" icon="github" link="https://github.com/elenasmartinez" color="#0366d6" %}
 
