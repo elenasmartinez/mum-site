@@ -1,6 +1,5 @@
 ---
-title: About Us
+title: Meet the Team
 layout: categories
-excerpt: "Category index"
 aside: true
 ---
