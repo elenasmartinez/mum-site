@@ -11,7 +11,7 @@ Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are compute
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Kira Toal is a computer science major .....
+Kira Toal is a computer science and applied math double major. She enjoys going running, scrapbooking, and spending time with friends and family. She hopes that the public finds mum easy to use.
 
 {% include button.html text="Kira's Github" icon="github" link="https://github.com/kirakira0" color="#0366d6" %}
 
@@ -19,7 +19,7 @@ Kira Toal is a computer science major .....
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Brittany Steenbergen is a computer science major .....
+Brittany Steenbergen is a computer science and applied math double major. She enjoys going running, scrapbooking, and spending time with friends and family. She hopes that the public finds mum easy to use.
 
 {% include button.html text="Brittany's Github" icon="github" link="https://github.com/bsteenbergen" color="#0366d6" %}
 
@@ -35,6 +35,6 @@ Elena Martinez is a computer science and applied math double major. She enjoys g
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Halle Vogelpohl is a computer science major ....
+Halle Vogelpohl is a computer science and applied math double major. She enjoys going running, scrapbooking, and spending time with friends and family. She hopes that the public finds mum easy to use.
 
 {% include button.html text="Halle's Github" icon="github" link="https://github.com/hallegv" color="#0366d6" %}
