@@ -9,7 +9,7 @@ Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are compute
 
 ## Meet Kira
 
-<img style="float: right;" src="elena_pic.png" position="left" width="300" height="800">
+<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
 Kira Toal is a computer science major .....
 
