@@ -9,9 +9,9 @@ Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are compute
 
 ## Meet Kira
 
-<img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
+<img style="float: right;" src="kira_pic.png" position="right" width="300" height="800">
 
-Kira Toal is a computer science and applied math double major. She enjoys going running, scrapbooking, and spending time with friends and family. She hopes that the public finds mum easy to use.
+Kira Toal is a computer science major and entrepreneurship minor. She is a horror movie enthusiast and you’ll usually find her reading or playing water polo in her free time. She hopes that mum will be easily learnable and allow for efficient programming.
 
 {% include button.html text="Kira's Github" icon="github" link="https://github.com/kirakira0" color="#0366d6" %}
 
@@ -27,7 +27,7 @@ Brittany Steenbergen is currently a junior computer science major and a member o
 
 <img style="float: right;" src="elena_pic.png" position="right" width="300" height="800">
 
-Elena Martinez is currently a senior computer science and applied math double major. In her free time she enjoys going running, scrapbooking, and spending time with friends, family, and her dog, Lopey.
+Elena Martinez is currently a senior computer science and applied math double major. She enjoys going running, scrapbooking, and spending time with friends, family, and her dog, Lopey. She hopes that the public finds mum easy to use.
 
 {% include button.html text="Elena's Github" icon="github" link="https://github.com/elenasmartinez" color="#0366d6" %}
 
