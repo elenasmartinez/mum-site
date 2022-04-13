@@ -100,11 +100,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
   - title: Home
-    url: "https://bsteenbergen.github.io/mum/"
+    url: "https://bsteenbergen.github.io/leg/"
   - title: About us
     url: "https://elenasmartinez.github.io/mum-site/"
   - title: Fork LEG
-    url: "https://bsteenbergen.github.io/mum/"
+    url: "https://bsteenbergen.github.io/leg/"
 
 navigation_footer:
   - title: Created by Kira, Brittany, Elena, Halle
