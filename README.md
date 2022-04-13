@@ -1,14 +1,8 @@
-<img src="https://raw.githubusercontent.com/bsteenbergen/mum/main/docs/mum_logo.PNG" width="600" height="200"/>
+<img src="https://raw.githubusercontent.com/bsteenbergen/mum/main/docs/leg_logo_1.jpeg" width="600" height="200"/>
 
-# mum
+# LEG
 
-In “The Philosophy of Ruby: A Conversation with Yukihiro Matsumoto, Part I”, the creator of the Ruby programming language says the following:
-
-"Often people, especially computer engineers, focus on the machines. They think, 'By doing this, the machine will run faster. By doing this, the machine will run more effectively. By doing this, the machine will something something something.' They are focusing on machines. But in fact we need to focus on humans, on how humans care about doing programming or operating the application of the machines. We are the masters. They are the slaves."
-
-Inspired by Matsumoto’s comments on writing programming languages for humans as opposed to for machines, our team sought to design a language that emphasizes readability, yet still allows users to construct programs quickly. Our language, “mum” (an adjective meaning “quiet” or “silent”), is designed to let users “do the most with the least”, meaning that it allows for efficient programming without the lack of readability inherent in languages that prioritize terse syntax.
-
-mum is a general purpose programming language intended for beginner to intermediate programmers.
+Intended to mimic the notorious ARMSim#, our language, LEG, is a blend of assembly and JavaScript code for a fun time with assembly. Whether you know Assembly or JavaScript, you are guaranteed to enjoy working with it. Assembly can be tedious and frustrating, for those reasons we bring to you a new and improved assembly-esque language, taking the best of both worlds. Assembly language is for the purpose of creating human-readable code that is as close as possible to machine language. LEG will be similar in that sense because it is a higher level  language intended to be close to assembly. Now break a LEG!
 
 ## Authors
 
