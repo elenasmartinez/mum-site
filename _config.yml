@@ -75,9 +75,9 @@ lang: en-GB # Set the site language
 title: "LEG" # Site name or title, also used in jekyll-seo-tag
 logo: "leg_logo_2.png" # Site logo, also used in jekyll-seo-tag
 description: "LEG is like assembly language, but better"
-url: "https://bsteenbergen.github.io/mum/"
+url: "https://bsteenbergen.github.io/leg/"
 baseurl: ""
-repo: "https://github.com/bsteenbergen/mum"
+repo: "https://github.com/bsteenbergen/leg"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
