@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "leg_logo_1.jpeg"
 ---
 
-Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are computer science students at LMU. Kira and Brittany are part of the class of 2023 and Elena and Halle are part of the class of 2022. They hope that you enjoy using mum! You can check out what other cool things these girls are up to by taking a look at their Githubs.
+Kira Toal, Brittany Steenbergen, Elena Martinez, and Halle Vogelpohl are computer science students at LMU. Kira and Brittany are part of the class of 2023 and Elena and Halle are part of the class of 2022. They hope that you enjoy using LEG! You can check out what other cool things these girls are up to by taking a look at their Githubs.
 
 ## Meet Kira
 
