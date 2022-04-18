@@ -114,6 +114,8 @@ navigation_footer:
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
 #      If multiple fonts can be requested in a single url opt for this
+#
+
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
